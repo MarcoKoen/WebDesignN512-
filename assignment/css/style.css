@@ -25,9 +25,11 @@ body, html {
 
 .navbar {
     background: white;
-    padding: 1em;
+    padding: 10px;
     top: 0;
-
+    position: fixed;
+    z-index: 999;
+    width: 99%;
 }
 
 .logo {
