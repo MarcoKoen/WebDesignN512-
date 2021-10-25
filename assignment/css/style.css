@@ -145,6 +145,9 @@ ul {
 .two-photos img {
     max-width: 100%;
 }
+
+.two-photos{padding:10px}
+
 .two-photos .container {
 
     display: flex;
